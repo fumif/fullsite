@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Fauna+One);
+
 * {
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -5,7 +7,7 @@
 
 body {
 	background: #000 url('../images/background.jpg');
-	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	font-family: 'Fauna One', Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
 	color: #333;
 }
 
@@ -19,7 +21,7 @@ body {
 header {
 	width:100%;
 	float: left;
-	padding-bottom :10px;
+	padding-bottom :25px;
 }
 
 header h1 {
